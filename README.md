@@ -20,7 +20,7 @@ A lightweight, const-generic matrix math library in Rust for learning purposes
 
 Example:
 
-```bash
+```rust
 use stackgebra::{Matrix, MatrixOps};
 
 fn main() {
